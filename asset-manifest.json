@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Web-Responsiveness-React/static/css/main.35f0aff3.chunk.css",
+    "main.js": "/Web-Responsiveness-React/static/js/main.c476d390.chunk.js",
+    "main.js.map": "/Web-Responsiveness-React/static/js/main.c476d390.chunk.js.map",
+    "runtime-main.js": "/Web-Responsiveness-React/static/js/runtime-main.00539eb9.js",
+    "runtime-main.js.map": "/Web-Responsiveness-React/static/js/runtime-main.00539eb9.js.map",
+    "static/js/2.fc3257ad.chunk.js": "/Web-Responsiveness-React/static/js/2.fc3257ad.chunk.js",
+    "static/js/2.fc3257ad.chunk.js.map": "/Web-Responsiveness-React/static/js/2.fc3257ad.chunk.js.map",
+    "index.html": "/Web-Responsiveness-React/index.html",
+    "static/css/main.35f0aff3.chunk.css.map": "/Web-Responsiveness-React/static/css/main.35f0aff3.chunk.css.map",
+    "static/js/2.fc3257ad.chunk.js.LICENSE.txt": "/Web-Responsiveness-React/static/js/2.fc3257ad.chunk.js.LICENSE.txt",
+    "static/media/flexbox-img.70dd22fe.jpg": "/Web-Responsiveness-React/static/media/flexbox-img.70dd22fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00539eb9.js",
+    "static/js/2.fc3257ad.chunk.js",
+    "static/css/main.35f0aff3.chunk.css",
+    "static/js/main.c476d390.chunk.js"
+  ]
+}
