@@ -8,7 +8,7 @@ export class Footer extends React.Component {
             <footer className="footer">
                 <div className="container footer_items">
                     <h1 className="footer-header">just scratching the surface</h1>
-                    <div className=" row footer__content">
+                    <div className="row footer__content">
                         <About />
                         <Link />
                         <Link />
