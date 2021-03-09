@@ -159,7 +159,7 @@ footer li {
   }
 
   .article__one--text, .article__two--text {
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
     text-align: center;
   }
@@ -171,11 +171,11 @@ footer li {
 
   .grid_article__text {
     display: block;
-    width: 100%;
+    width: 80%;
   }
 
   .about__footer {
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
   }
 
