@@ -1,0 +1,59 @@
+.main {
+    background-color: #3b4050;
+    color: #ffffff;
+    margin: 0;
+    top: 0;
+}
+
+.main__content {
+    width: 50%;
+    padding: 2em 0;
+}
+  
+.big__text {
+    font-size: 3rem;
+}
+  
+.gold__text {
+    color: #a59678;
+    margin-left: 20px;
+}
+  
+.small__text {
+    font-size: 1.35rem;
+    line-height: 1.7;
+}
+  
+.btn__one {
+    background-color: #a59678;
+    border-radius: 100px;
+    padding: .3em .95em;
+    color: #ffffff;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+  
+@media screen and (max-width: 960px) {
+    .big__text {
+        font-size: 1.5rem;
+        width: 70%;
+    }
+    .small__text {
+        font-size: 1rem;
+        width: 70%;
+    }
+    .main__content {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .big__text {
+        width: 70%;
+    }
+    .small__text {
+        width: 80%;
+    }
+}
